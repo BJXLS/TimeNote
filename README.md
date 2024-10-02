@@ -1,6 +1,8 @@
-TimeNote
+# TimeNote
 Personal schedule management platform
-# Planning support functions
-[x] TodoList
-[x] Schedule
-[x] Data analysis
+## 1. Planning support functions
+* [ ] TodoList
+* [ ] Schedule
+* [ ] Data analysis
+## 2. Doing
+* Building system basic capabilities
